@@ -1,1 +1,1 @@
-# TCC_to_SCC_VisualTool
+# Visual tool for converting traditional Chinese characters to simplified Chinese characters
