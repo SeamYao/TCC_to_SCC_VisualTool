@@ -8,8 +8,9 @@ pip install PyQt5
 
 pip install pyinstaller
 
+運行生成exe
 
-use cmd pyinstaller -F -w outPutProject1.py --add-data="resource;."
+use cmd pyinstaller -F -w  TCC_to_SCC_VisualTool.py --add-data="resource;."
 
 
 
