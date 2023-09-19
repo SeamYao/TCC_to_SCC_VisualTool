@@ -13,6 +13,7 @@ pip install pyinstaller
 use cmd pyinstaller -F -w  TCC_to_SCC_VisualTool.py --add-data="resource;."
 
 3.特別文件說明
+
 *resresource/zhcdict.json  來自zhconv庫中的zhcdict.json
 
 import sys
