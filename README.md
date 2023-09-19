@@ -12,13 +12,14 @@ pip install pyinstaller
 
 use cmd pyinstaller -F -w  TCC_to_SCC_VisualTool.py --add-data="resource;."
 
-
+3.特別文件說明
+*resresource/zhcdict.json  來自zhconv庫中的zhcdict.json
 
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget, QTextEdit, QPushButton
 import zhconv
 
-3.未來工作
+4.未來工作
 
 1.更改界面
 
