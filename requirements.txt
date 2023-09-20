@@ -1,1 +1,2 @@
 zhconv
+PyQt5
